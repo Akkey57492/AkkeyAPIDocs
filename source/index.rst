@@ -3,16 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AkkeyAPIDocs's documentation!
-========================================
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`test`
+AkkeyAPI Docs
+=============
+AkkeyAPI DocsはAkkeyAPIのドキュメントです。
+基本URLやリクエスト先、HeaderやData、Json等の情報が記載されています。
